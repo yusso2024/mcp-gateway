@@ -48,7 +48,7 @@ Engineer Browser / MCP Client
         |
         v
       MCPX Gateway
-      10.208.0.162:9000/mcp
+      10.20.0.162:9000/mcp
         |                |
         |                |
         v                v
