@@ -13,11 +13,11 @@ This repository stores the operational documentation for the shared MCP platform
 
 Current deployed services:
 
-- **MCPX Gateway** on `http://10.208.0.162:9000/mcp`
-- **MCPX Dashboard** on `http://10.208.0.162:5173`
-- **Coder** on `http://10.208.0.162:7080`
-- **vSphere MCP** on `http://10.208.0.162:8000/mcp`
-- **FortiGate MCP** on `http://10.208.0.162:8814/fortigate-mcp/sse`
+- **MCPX Gateway** on `http://10.20.0.162:9000/mcp`
+- **MCPX Dashboard** on `http://10.20.0.162:5173`
+- **Coder** on `http://10.20.0.162:7080`
+- **vSphere MCP** on `http://10.20.0.162:8000/mcp`
+- **FortiGate MCP** on `http://10.20.0.162:8814/fortigate-mcp/sse`
 
 ## Regenerating the PDF
 
